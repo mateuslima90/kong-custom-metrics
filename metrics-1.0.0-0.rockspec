@@ -1,7 +1,7 @@
 package = "metrics"
 version = "1.0.0-0"
 source = {
-   url = "https://github.com/mateuslima90/kong-custom-metrics/archive/refs/tags/v1.0.0.zip",
+   url = "https://github.com/mateuslima90/kong-custom-metrics/archive/refs/tags/v1.0.1.zip",
 }
 description = {
    summary = "Biblioteca de métricas customizadas para Kong",
