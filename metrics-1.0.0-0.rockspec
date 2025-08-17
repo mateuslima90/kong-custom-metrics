@@ -10,7 +10,7 @@ description = {
    homepage = "https://github.com/mateuslima90/kong-custom-metrics.git"
 }
 dependencies = {
-   "lua >= 5.1"
+   "lua >= 5.1, < 5.2"
 }
 build = {
    type = "builtin",
